@@ -1123,7 +1123,7 @@ def run_test_halfway_to():
     print()
     print('Should be: Point(-10.0, 20.0)')
     print('Actual is:', p3.halfway_to(p3))
-
+ 
 
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
